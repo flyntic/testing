@@ -1,0 +1,19 @@
+﻿topic Природа
+name Цвета
+question Цвет воды
+type r
+answer Прозрачный
+answer Синий
+answer Зеленый
+
+question Цвет воздуха
+type r
+answer Прозрачный
+answer Синий
+answer Зеленый
+
+question Цвет снега
+type r
+answer Прозрачный
+answer Синий
+answer Белый
